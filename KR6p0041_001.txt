@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:02:18.483983
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:53
 #+TITLE: 五方便念佛門
 #+PROPERTY: CBETA_ID T47n1962
 #+PROPERTY: ID KR6p0041
